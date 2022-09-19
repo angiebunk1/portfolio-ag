@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a professional portfolio made using React. The deployed website can be viewed here: https://angiebunk1.github.io/Angie-Gustafson-Portfolio/ .
+This is a professional portfolio made using React. The deployed website can be viewed here: https://angiebunk1.github.io/portfolio-ag/ .
 
 The portfolio includes four sections: About, Portfolio, Resume, and Contact. Each can be viewed by clicking on their title in the navigation bar.
 
