@@ -148,7 +148,7 @@ footer h3 {
 
 
 .project1 {
-  background: url(./assets/images/parkour.jpg);
+  background: url(./assets/images/wherewereyouwhen.jpg);
   background-size: cover;
   width: 500px;
   height: 150px;
@@ -156,35 +156,35 @@ footer h3 {
 }
 
 .project2 {
-  background: url(./assets/images/techblog.jpg);
+  background: url(./assets/images/parkour.jpg);
   background-size: cover;
   width: 500px;
   height: 150px;
   margin: 0px 0px 30px;
 }
 .project3 {
-  background: url(./assets/images/marvelproject.jpg);
+  background: url(./assets/images/techblog.jpg);
   background-size: cover;
   width: 500px;
   height: 150px;
   margin: 0px 0px 30px;
 }
 .project4 {
-  background: url(./assets/images/notetaker.jpg);
+  background: url(./assets/images/marvelproject.jpg);
   background-size: cover;
   width: 500px;
   height: 150px;
   margin: 0px 0px 30px;
 }
 .project5 {
-  background: url(./assets/images/workday.jpg);
+  background: url(./assets/images/notetaker.jpg);
   background-size: cover;
   width: 500px;
   height: 150px;
   margin: 0px 0px 30px;
 }
 .project6 {
-  background: url(./assets/images/social-network-api.jpg);
+  background: url(./assets/images/workday.jpg);
   background-size: cover;
   width: 500px;
   height: 150px;
