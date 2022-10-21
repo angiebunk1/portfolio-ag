@@ -138,14 +138,6 @@ footer h3 {
 
 }
 
-.project-titles {
-  background-color:var(--primary-color);
-  position: absolute;
-  padding: 5px;
-  border: solid 2px var(--secondary-color);
-
-}
-
 
 .project1 {
   background: url(./assets/images/wherewereyouwhen.jpg);
