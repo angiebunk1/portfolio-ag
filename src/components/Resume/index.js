@@ -10,7 +10,7 @@ function Resume() {
       <div>
         <h3>Technical Skills Include:</h3>
         <p className='skills'>
-        HTML | CSS | JAVASCRIPT | APIs | NODE.JS | OOP | EXPRESS.JS | MySQL | ORM | MVC FRAMEWORKS | JEST | AGILE | HEROKU | NoSQL | MongoDB | MONGOOSE | PWAs | REACT | MERN
+        HTML | CSS | JAVASCRIPT | APIs | NODE.JS | OOP | EXPRESS.JS | MySQL | ORM | MVC FRAMEWORKS | JEST | AGILE | HEROKU | NoSQL | MongoDB | MONGOOSE | GRAPHQL | PWAs | REACT | MERN
         </p>
       </div>
     </div>
