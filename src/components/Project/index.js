@@ -15,7 +15,7 @@ return (
         {description}
         </p>
         <p>
-            {tech}
+        {tech}
         </p>
         <p>
         <a href={link1} target='_blank'>Deployed Site  |  </a>
