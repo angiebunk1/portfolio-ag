@@ -9,7 +9,7 @@ function Header (props) {
     return (
         <div className="header">
             <h2>
-                <a href="/">
+                <a href="/portfolio-ag">
                     ANGIE GUSTAFSON
                 </a>
             </h2>
