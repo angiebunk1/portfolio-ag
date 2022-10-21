@@ -4,7 +4,7 @@ import Project from "../Project";
 
 function Portfolio () {
     const [projects] = useState([
-        { title: 'Where Were You When', link1: 'https://where-were-you-when.herokuapp.com/', link2: 'https://github.com/angiebunk1/Where-Were-You-When', label: 'project1' }
+        { title: 'Where Were You When', link1: 'https://where-were-you-when.herokuapp.com/', link2: 'https://github.com/angiebunk1/Where-Were-You-When', label: 'project1' },
         { title: 'P.A.R.K.O.U.R.', link1: 'https://parkour-review.herokuapp.com/', link2: 'https://github.com/angiebunk1/playground-rating-app', label: 'project2' },
         { title: 'Tech Blog', link1: 'https://desolate-temple-40613.herokuapp.com/', link2: 'https://github.com/angiebunk1/Tech-Blog', label: 'project3' },
         { title: 'Marvel Story Generator', link1: 'https://kaylab78.github.io/marvel-story-generator/', link2: 'https://github.com/angiebunk1/marvel-story-generator', label: 'project4' },
